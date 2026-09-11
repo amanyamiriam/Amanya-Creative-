@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#eef7f6"/><rect x="55" y="45" width="790" height="510" rx="22" fill="#fff" stroke="#b7d9d5" stroke-width="4"/>
+  <rect x="55" y="45" width="790" height="72" rx="22" fill="#245b63"/><circle cx="104" cy="81" r="22" fill="#f4c95d"/><text x="145" y="89" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="700">Autism Foundation</text>
+  <text x="620" y="87" fill="#dff4f0" font-family="Arial,sans-serif" font-size="16">About   Resources   Support</text>
+  <text x="100" y="180" fill="#245b63" font-family="Arial,sans-serif" font-size="38" font-weight="700">Understanding autism</text><text x="100" y="218" fill="#557477" font-family="Arial,sans-serif" font-size="19">Clear information. Practical support. A more inclusive world.</text>
+  <rect x="100" y="260" width="210" height="120" rx="16" fill="#d9f0ee"/><rect x="340" y="260" width="210" height="120" rx="16" fill="#fff0cf"/><rect x="580" y="260" width="210" height="120" rx="16" fill="#fbe0d5"/>
+  <text x="125" y="300" fill="#245b63" font-family="Arial,sans-serif" font-size="20" font-weight="700">What is autism?</text><text x="125" y="332" fill="#557477" font-family="Arial,sans-serif" font-size="15">Learn the basics</text><text x="125" y="355" fill="#557477" font-family="Arial,sans-serif" font-size="15">and common signs.</text>
+  <text x="365" y="300" fill="#245b63" font-family="Arial,sans-serif" font-size="20" font-weight="700">For families</text><text x="365" y="332" fill="#557477" font-family="Arial,sans-serif" font-size="15">Guides, tools and</text><text x="365" y="355" fill="#557477" font-family="Arial,sans-serif" font-size="15">local support.</text>
+  <text x="605" y="300" fill="#245b63" font-family="Arial,sans-serif" font-size="20" font-weight="700">Get involved</text><text x="605" y="332" fill="#557477" font-family="Arial,sans-serif" font-size="15">Advocacy and</text><text x="605" y="355" fill="#557477" font-family="Arial,sans-serif" font-size="15">community events.</text>
+  <rect x="100" y="435" width="690" height="60" rx="30" fill="#245b63"/><text x="330" y="473" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Explore autism resources →</text>
+</svg>

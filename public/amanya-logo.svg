@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Amanya Creative</title>
+  <desc id="desc">Amanya Creative logo with a stylized AC monogram and the words Design. Digital. Creativity.</desc>
+  <rect width="800" height="520" fill="#f7f2ea"/>
+  <g fill="#111111">
+    <path d="M185 230 286 54l42 91-54 1-52 92c-14 25-30 39-49 43 8-8 10-17 12-27Z"/>
+    <path d="M303 229c25-39 38-76 47-118 5-23 18-42 38-53 37-20 91-10 119 13 10 9 18 19 23 30l-26 36c-12-30-32-47-61-48-35-1-62 24-69 66-7 39-1 72 22 96 17 18 39 26 68 26 34 0 59-14 78-40-12 28-36 49-70 56-55 11-111-9-139-47-14-19-22-41-30-61Z"/>
+    <path d="M250 153c51-34 108-46 169-38 39 5 72 19 101 44-35-18-69-26-104-25-65 1-119 25-177 69l-36 28-18-15c23-26 42-44 65-63Z" fill="#a77a58"/>
+    <path d="M290 155h44l17 75c7 29 19 47 37 57-20-1-37-9-49-24-11-13-18-31-23-53l-26-55Z"/>
+  </g>
+  <text x="400" y="344" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="91" letter-spacing="17" fill="#111111">AMANYA</text>
+  <text x="400" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" letter-spacing="20" fill="#a77a58">CREATIVE</text>
+  <path d="M137 455h91M572 455h91" stroke="#a77a58" stroke-width="3"/>
+  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="7" fill="#111111">Design. Digital. Creativity.</text>
+</svg>

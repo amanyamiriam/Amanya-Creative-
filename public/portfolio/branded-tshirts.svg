@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#f3eee7"/><circle cx="120" cy="100" r="190" fill="#ef8354" opacity=".2"/><circle cx="800" cy="510" r="220" fill="#287d8e" opacity=".18"/>
+  <text x="60" y="82" fill="#102a43" font-family="Arial,sans-serif" font-size="30" font-weight="700">BRANDED T-SHIRT COLLECTION</text><text x="60" y="116" fill="#53707a" font-family="Arial,sans-serif" font-size="18">Bold graphics made to be worn.</text>
+  <g stroke="#102a43" stroke-width="5" stroke-linejoin="round"><path d="M130 220l70-45 55 50 55-50 70 45-45 80-35-20v190H210V280l-35 20z" fill="#ef8354"/><path d="M455 220l70-45 55 50 55-50 70 45-45 80-35-20v190H535V280l-35 20z" fill="#287d8e"/></g>
+  <text x="196" y="350" fill="#fff" font-family="Arial,sans-serif" font-size="27" font-weight="700" transform="rotate(-5 196 350)">CREATE</text><text x="542" y="350" fill="#f4c95d" font-family="Arial,sans-serif" font-size="27" font-weight="700" transform="rotate(5 542 350)">GOOD</text>
+  <circle cx="770" cy="175" r="48" fill="#f4c95d"/><text x="747" y="183" fill="#102a43" font-family="Arial,sans-serif" font-size="16" font-weight="700">NEW</text>
+</svg>
