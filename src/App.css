@@ -131,7 +131,35 @@ body {
   display: none;
   cursor: pointer;
   color: var(--white);
-  font-size: 1.5rem;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.menu-icon span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--white);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.menu-icon.open span:first-child {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.menu-icon.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-icon.open span:last-child {
+  transform: translateY(-7px) rotate(-45deg);
 }
 
 /* Footer Styles */
@@ -263,10 +291,20 @@ body {
   }
 
   .menu-icon {
-    display: block;
+    display: flex;
   }
 
   .footer-content {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .nav-menu {
+    gap: var(--spacing-md);
+  }
+
+  .nav-link-btn {
+    padding-inline: var(--spacing-md);
   }
 }

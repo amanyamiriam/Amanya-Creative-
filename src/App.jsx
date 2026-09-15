@@ -28,9 +28,17 @@ function App() {
             <Link to="/" className="nav-logo" onClick={closeMobileMenu}>
               <img src={headerLogo} alt="Amanya Creative" />
             </Link>
-            <div className="menu-icon" onClick={toggleMobileMenu}>
-              <i className={mobileMenuOpen ? 'fas fa-times' : 'fas fa-bars'}></i>
-            </div>
+            <button
+              className={`menu-icon${mobileMenuOpen ? ' open' : ''}`}
+              type="button"
+              aria-label={mobileMenuOpen ? 'Close navigation menu' : 'Open navigation menu'}
+              aria-expanded={mobileMenuOpen}
+              onClick={toggleMobileMenu}
+            >
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
             <ul className={mobileMenuOpen ? 'nav-menu active' : 'nav-menu'}>
               <li className="nav-item">
                 <Link to="/" className="nav-link" onClick={closeMobileMenu}>

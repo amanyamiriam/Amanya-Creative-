@@ -222,12 +222,17 @@
 
 /* Responsive */
 @media (max-width: 768px) {
+  .hero-section {
+    min-height: auto;
+    padding-block: 4rem;
+  }
+
   .hero-content h1 {
-    font-size: 2rem;
+    font-size: clamp(2rem, 10vw, 3rem);
   }
 
   .tagline {
-    font-size: 1.2rem;
+    font-size: clamp(1rem, 5vw, 1.2rem);
   }
 
   .hero-buttons {
